@@ -1,4 +1,3 @@
-Dashboard/Screenshorts/page1_executive_summary.png
 # Retail-Sales-Analysis
 
 ## Project Overview
