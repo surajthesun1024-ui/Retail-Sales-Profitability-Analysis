@@ -251,3 +251,8 @@ Retail-Sales-Profitability-Analysis/
 # Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, from data preparation and exploratory analysis to business intelligence reporting. The findings highlight the importance of discount management, product profitability monitoring, and data-driven decision-making in retail operations.
+
+## 👤 Author
+**Suraj Singh** — M.Sc. Data Science & Analytics, Sharda University
+[LinkedIn](https://linkedin.com/in/suraj-singh-ds) |
+[GitHub](https://github.com/surajthesun1024-ui)
