@@ -223,7 +223,41 @@ Key Purpose:
 Understand how discounting affects profitability and identify loss-generating products.
 
 ---
+Dashboard Screenshots
+Executive Summary
 
+Add screenshot:
+Dashboard Screenshots
+Executive Summary
+
+Add screenshot:
+
+dashboard/Screenshorts/page1_executive_summary.png
+
+Profitability Analysis
+
+Add screenshot:
+
+dashboard/page2_profitability_analysis.png
+
+Discount & Loss Analysis
+
+Add screenshot:
+
+dashboard/page3_discount_loss_analysis.png
+dashboard/page1_executive_summary.png
+
+Profitability Analysis
+
+Add screenshot:
+
+dashboard/page2_profitability_analysis.png
+
+Discount & Loss Analysis
+
+Add screenshot:
+
+dashboard/page3_discount_loss_analysis.png
 # Project Structure
 
 Retail-Sales-Profitability-Analysis/
