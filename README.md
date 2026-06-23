@@ -224,32 +224,6 @@ Understand how discounting affects profitability and identify loss-generating pr
 
 ---
 
-# Dashboard Screenshots
-
-## Executive Summary
-
-Add screenshot:
-
-dashboard/page1_executive_summary.png
-
----
-
-## Profitability Analysis
-
-Add screenshot:
-
-dashboard/page2_profitability_analysis.png
-
----
-
-## Discount & Loss Analysis
-
-Add screenshot:
-
-dashboard/page3_discount_loss_analysis.png
-
----
-
 # Project Structure
 
 Retail-Sales-Profitability-Analysis/
