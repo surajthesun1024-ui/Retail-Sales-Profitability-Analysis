@@ -1,4 +1,4 @@
-https://github.com/surajthesun1024-ui/Retail-Sales-Profitability-Analysis/blob/main/Dashboard/Screenshorts/page1_executive_summary.png
+Dashboard/Screenshorts/page1_executive_summary.png
 # Retail-Sales-Analysis
 
 ## Project Overview
